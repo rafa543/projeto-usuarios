@@ -9,7 +9,7 @@ Projeto feito para treina habilidades front-end como html, css e javascript
  
 * HTML
 * CSS
-* FJavascript
+* Javascript
  
  
 ## How to use
